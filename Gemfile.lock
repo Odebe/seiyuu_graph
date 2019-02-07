@@ -1,0 +1,124 @@
+GIT
+  remote: git://github.com/Odebe/mal_parser.git
+  revision: 19c1516b014bfac747b3d12dada44f17b73fb2f2
+  specs:
+    mal_parser (0.1.0)
+      attr_extras
+      nokogiri
+
+GIT
+  remote: git://github.com/rom-rb/rom-sql.git
+  revision: b0e2221059dbdbfb1dd1e2f8da7e4568e25c9b09
+  specs:
+    rom-sql (2.5.0)
+      dry-core (~> 0.3)
+      dry-equalizer (~> 0.2)
+      dry-types (~> 0.14.0)
+      rom-core (~> 4.2)
+      sequel (>= 4.49)
+
+GIT
+  remote: git://github.com/rom-rb/rom.git
+  revision: e799b359da08df9d6685f6d06e66d7544e8a5b35
+  specs:
+    rom (4.2.1)
+      rom-changeset (~> 1.0, >= 1.0.2)
+      rom-core (~> 4.2, >= 4.2.1)
+      rom-repository (~> 2.0, >= 2.0.2)
+    rom-changeset (1.0.2)
+      dry-core (~> 0.3, >= 0.3.1)
+      rom-core (~> 4.0)
+      transproc (~> 1.0)
+    rom-core (4.2.1)
+      concurrent-ruby (~> 1.0)
+      dry-container (~> 0.6)
+      dry-core (~> 0.3)
+      dry-equalizer (~> 0.2)
+      dry-inflector (~> 0.1)
+      dry-initializer (~> 2.0)
+      dry-struct (~> 0.6)
+      dry-types (~> 0.14.0)
+    rom-repository (2.0.2)
+      dry-core (~> 0.3)
+      dry-initializer (~> 2.0)
+      rom-core (~> 4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ast (2.4.0)
+    attr_extras (6.2.0)
+    concurrent-ruby (1.1.4)
+    dry-configurable (0.8.1)
+      concurrent-ruby (~> 1.0)
+      dry-core (~> 0.4, >= 0.4.7)
+    dry-container (0.7.0)
+      concurrent-ruby (~> 1.0)
+      dry-configurable (~> 0.1, >= 0.1.3)
+    dry-core (0.4.7)
+      concurrent-ruby (~> 1.0)
+    dry-equalizer (0.2.1)
+    dry-inflector (0.1.2)
+    dry-initializer (2.5.0)
+    dry-logic (0.5.0)
+      dry-container (~> 0.2, >= 0.2.6)
+      dry-core (~> 0.2)
+      dry-equalizer (~> 0.2)
+    dry-struct (0.6.0)
+      dry-core (~> 0.4, >= 0.4.3)
+      dry-equalizer (~> 0.2)
+      dry-types (~> 0.13)
+      ice_nine (~> 0.11)
+    dry-types (0.14.0)
+      concurrent-ruby (~> 1.0)
+      dry-container (~> 0.3)
+      dry-core (~> 0.4, >= 0.4.4)
+      dry-equalizer (~> 0.2)
+      dry-inflector (~> 0.1, >= 0.1.2)
+      dry-logic (~> 0.5, >= 0.5)
+    ice_nine (0.11.2)
+    jaro_winkler (1.5.2)
+    mini_portile2 (2.4.0)
+    mustermann (1.0.3)
+    nokogiri (1.10.1)
+      mini_portile2 (~> 2.4.0)
+    parallel (1.13.0)
+    parser (2.6.0.0)
+      ast (~> 2.4.0)
+    powerpack (0.1.2)
+    rack (2.0.6)
+    rack-protection (2.0.5)
+      rack
+    rainbow (3.0.0)
+    rubocop (0.63.1)
+      jaro_winkler (~> 1.5.1)
+      parallel (~> 1.10)
+      parser (>= 2.5, != 2.5.1.1)
+      powerpack (~> 0.1)
+      rainbow (>= 2.2.2, < 4.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (~> 1.4.0)
+    ruby-progressbar (1.10.0)
+    sequel (5.17.0)
+    sinatra (2.0.5)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.5)
+      tilt (~> 2.0)
+    tilt (2.0.9)
+    transproc (1.0.3)
+    unicode-display_width (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  mal_parser!
+  rom!
+  rom-sql!
+  rubocop
+  sinatra
+
+BUNDLED WITH
+   1.16.1
