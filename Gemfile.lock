@@ -49,6 +49,7 @@ GEM
     ast (2.4.0)
     attr_extras (6.2.0)
     concurrent-ruby (1.1.4)
+    dotenv (2.6.0)
     dry-configurable (0.8.1)
       concurrent-ruby (~> 1.0)
       dry-core (~> 0.4, >= 0.4.7)
@@ -90,6 +91,7 @@ GEM
     rack-protection (2.0.5)
       rack
     rainbow (3.0.0)
+    rake (12.3.2)
     rubocop (0.63.1)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
@@ -105,6 +107,7 @@ GEM
       rack (~> 2.0)
       rack-protection (= 2.0.5)
       tilt (~> 2.0)
+    sqlite3 (1.4.0)
     tilt (2.0.9)
     transproc (1.0.3)
     unicode-display_width (1.4.1)
@@ -114,11 +117,14 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  dotenv
   mal_parser!
+  rake
   rom!
   rom-sql!
   rubocop
   sinatra
+  sqlite3
 
 BUNDLED WITH
    1.16.1

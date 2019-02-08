@@ -1,0 +1,17 @@
+require 'bundler/setup'
+require 'rom/sql/rake_task'
+require 'rom'
+require_relative './db/migrations.rb'
+
+namespace :db do
+  task :setup do
+    # require_relative './db/migrations.rb'
+    config = ROM::Configuration.new(:sql, 'sqlite:://db-file.db')
+    config.default.create_table(:graphs) do
+        primary_key :id
+        string :title, null: false
+        string :state, null: false
+        date :created_at, null: false
+      end
+  end
+end
