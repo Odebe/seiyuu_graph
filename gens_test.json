@@ -1,0 +1,794 @@
+[
+    {
+        "id": "240",
+        "name": "Genshiken",
+        "image": "https://cdn.myanimelist.net/images/anime/10/4742.jpg",
+        "english": "Genshiken",
+        "japanese": "げんしけん",
+        "synonyms": [
+            "The Society for the Study of Modern Visual Culture"
+        ],
+        "kind": "tv",
+        "episodes": 12,
+        "status": "released",
+        "aired_on": "2004-10-10",
+        "released_on": "2004-12-26",
+        "broadcast": "Sundays at Unknown",
+        "studios": [
+            {
+                "id": 455,
+                "name": "Palm Studio"
+            }
+        ],
+        "origin": "manga",
+        "genres": [
+            {
+                "id": 36,
+                "name": "Slice of Life"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 20,
+                "name": "Parody"
+            }
+        ],
+        "duration": 25,
+        "rating": "pg_13",
+        "score": 7.71,
+        "ranked": 1091,
+        "popularity": 744,
+        "members": 128379,
+        "favorites": 1217,
+        "synopsis": "Kanji Sasahara is an introverted college freshman just looking for a place to fit in. One day, he happens to stumble upon the club known as the Society for the Study of Modern Visual Culture—otherwise known as Genshiken—that serves to bring the full spectrum of otaku culture together. His first visit to the club, however, does not end well as Sasahara's pride is crushed by his senior, Harunobu Madarame, and he leaves the meeting in full denial of his otaku nature. However, after befriending club member Makoto Kousaka, who turns out to be a hardcore otaku despite his looks, Sasahara becomes more involved with club activities which include obsessing over their favorite anime, reading doujinshi, and attending conventions. There, he meets other interesting people like Kousaka's vehemently non-otaku girlfriend Saki Kasukabe, who strives to turn her boyfriend into a \"normal guy.\"\r\n\r\nWhile Saki struggles to understand otaku culture and her boyfriend's love for it, Sasahara finds himself enjoying his time at Genshiken, gradually shedding any denial he once had about being an otaku and immersing himself in an otaku lifestyle. \r\n\r\n[Written by MAL Rewrite]",
+        "related": {
+            "adaptation": [
+                {
+                    "id": 348,
+                    "name": "Genshiken",
+                    "type": "manga"
+                }
+            ],
+            "spin_off": [
+                {
+                    "id": 669,
+                    "name": "Kujibiki Unbalance",
+                    "type": "anime"
+                }
+            ],
+            "sequel": [
+                {
+                    "id": 1813,
+                    "name": "Genshiken OVA",
+                    "type": "anime"
+                }
+            ]
+        },
+        "external_links": null,
+        "season": "fall_2004",
+        "characters": [
+            {
+                "id": 2012,
+                "name": "Saki Kasukabe",
+                "image": "https://cdn.myanimelist.net/images/characters/12/27879.jpg",
+                "japanese": "春日部 咲",
+                "fullname": "Saki Kasukabe",
+                "seyu": [
+                    {
+                        "id": 3,
+                        "name": "Satsuki Yukino",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/18113.jpg",
+                        "japanese": "ゆきの さつき",
+                        "website": "http://",
+                        "birthday": "1970-05-25"
+                    },
+                    {
+                        "id": 241,
+                        "name": "Rina Satou",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/54579.jpg",
+                        "japanese": "佐藤 利奈",
+                        "website": "http://haikyo.co.jp/profile/profile.php?ActorID=11916",
+                        "birthday": "1981-05-02"
+                    },
+                    {
+                        "id": 6197,
+                        "name": "Geneviève Doang",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/48278.jpg",
+                        "japanese": "",
+                        "website": "http://www.genevievedoang.com/",
+                        "birthday": "1901-10-17"
+                    },
+                    {
+                        "id": 7053,
+                        "name": "Carol Jacobanis",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/39978.jpg",
+                        "japanese": "",
+                        "website": "http://caroljacobanis.com/",
+                        "birthday": null
+                    },
+                    {
+                        "id": 14927,
+                        "name": "Seon Hye Kim",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/15627.jpg",
+                        "japanese": "김 선혜",
+                        "website": "http://",
+                        "birthday": "1974-08-18"
+                    },
+                    {
+                        "id": 20332,
+                        "name": "Ariadna Jiménez",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/48085.jpg",
+                        "japanese": "",
+                        "website": "http://www.eldoblaje.com/datos/FichaActorDoblaje.asp?id=13908",
+                        "birthday": null
+                    },
+                    {
+                        "id": 21705,
+                        "name": "Esra Vural",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/39333.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1983-08-08"
+                    }
+                ],
+                "synopsis": "Blood Type: AB<br>\r\nBirthday: July 19, 1983<br>\r\nAge: 18-22 <br>\r\nFavorite Manga: \"Let's Go\" Rai Junior High, Royalty in Motion<br>\r\nFavorite Anime: None<br>\r\nFavorite Game: The Game of Life<br>\r\nZodiac Sign: Cancer<br>\r\n<br>\r\nShe is Kousaka's girlfriend. Fashionable, violent, confident, occasional smoker, and not at all attracted by the sexual charms of anime characters, Saki is not an otaku in any sense of the word. She follows Kousaka into Genshiken, and is eventually blackmailed by the first Genshiken chairman into joining the club. Surprisingly, Saki actually saves Genshiken from being shut down on two separate occasions, though her motives have more to do with revenge and guilt than becoming more of an otaku.<br>\r\n<br>\r\nDespite being vehemently against otaku activities such as wearing nekomimi (cat-ears) at the start of the series, Saki eventually becomes comfortable with the other club members to the point that she can be considered their close friend (aside from the possible exception of Kuchiki). Saki has a tendency to use nicknames. She calls Sasahara \"Sasayan\", Kugayama \"Kugapii\", and Ogiue \"Ogichin\" by nicknames, and even though she at first refuses to call Kuchiki by his self-appointed nickname (\"Kucchi\"), Saki starts using that nickname as well. <br>\r\n<br>\r\nIn the spin-off series <i>Spotted Flower</i> (unknown if confirmed as canon), she <div class=\"spoiler\">\n<input type=\"button\" class=\"button show_button\" onclick=\"this.nextSibling.style.display='inline-block';this.style.display='none';\" data-showname=\"Show spoiler\" data-hidename=\"Hide spoiler\" value=\"Show spoiler\"><span class=\"spoiler_content\" style=\"display:none\"><input type=\"button\" class=\"button hide_button\" onclick=\"this.parentNode.style.display='none';this.parentNode.parentNode.childNodes[0].style.display='inline-block';\" value=\"Hide spoiler\"><br>is no longer in relationship with Kousaka. She is now married to Madarame and is pregnant with his child. In spite of this, it is assumed that everyone is still friends and stay in contact with each other. The story revolves around their married lives, especially with the pregnancy and otaku life affecting their sexual intimacy.</span>\n</div>\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 2013,
+                "name": "Makoto Kousaka",
+                "image": "https://cdn.myanimelist.net/images/characters/2/54318.jpg",
+                "japanese": "高坂 真琴",
+                "fullname": "Makoto Kousaka",
+                "seyu": [
+                    {
+                        "id": 197,
+                        "name": "Mitsuki Saiga",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/9931.jpg",
+                        "japanese": "斎賀 みつき",
+                        "website": "http://",
+                        "birthday": "1973-06-12"
+                    },
+                    {
+                        "id": 988,
+                        "name": "Momoko Oohara",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/32783.jpg",
+                        "japanese": "大原 桃子",
+                        "website": "http://ameblo.jp/13916momo/",
+                        "birthday": "1988-03-12"
+                    },
+                    {
+                        "id": 1656,
+                        "name": "Sebastian Schulz",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/21809.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1977-01-01"
+                    },
+                    {
+                        "id": 10075,
+                        "name": "Kenneth Robert Marlo",
+                        "image": null,
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1975-12-26"
+                    },
+                    {
+                        "id": 14863,
+                        "name": "Beom Gi Hong",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/15461.jpg",
+                        "japanese": "홍 범기",
+                        "website": "http://",
+                        "birthday": "1974-12-16"
+                    },
+                    {
+                        "id": 26575,
+                        "name": "Rémi Caillebot",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/28767.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 36959,
+                        "name": "Carlos Lladó",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/39130.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    }
+                ],
+                "synopsis": "Blood Type: B<br>\r\nBirthday: February 2, 1984<br>\r\nAge: 18-22<br>\r\nFavorite Manga: The Mysterious Adventures of DaDa<br>\r\nFavorite Anime: pretty much anything<br>\r\nFavorite Game: Full Armor, Street Master 2, Draculina Hunter<br>\r\nPen Name: Toshizo (トシゾー, Toshizō?)<br>\r\nZodiac Sign: Aquarius<br>\r\nRingtone: Hana no ko Lunlun<br>\r\n<br>\r\nUnusually handsome and cute, Kousaka is actually one of the most hardcore otaku in Genshiken. He loves hentai games and is undefeatable when it comes to video games, particularly the fighting genre. As Saki's boyfriend, Kousaka is largely responsible for Saki learning to be patient when it comes to dating an otaku. Kousaka can be considered the exception to the rules of stereotypical otaku, as he is able to juggle fashion with an otaku lifestyle, though after getting a job programming for a porn game company, even Kousaka cannot completely keep up with such a hectic schedule.<br>\r\n<br>\r\nKousaka is easy-going and never loses his temper, a trait portrayed by the constant smile on his face. However, he can be rather forceful when the need arises, particularly when it comes to keeping Saki from avoiding her promises.<br>\r\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 2647,
+                "name": "Mitsunori Kugayama",
+                "image": "https://cdn.myanimelist.net/images/characters/10/55546.jpg",
+                "japanese": "久我山 光紀",
+                "fullname": "Mitsunori \"Kugapii\" Kugayama",
+                "seyu": [
+                    {
+                        "id": 25,
+                        "name": "Hiroki Yasumoto",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/42158.jpg",
+                        "japanese": "安元 洋貴",
+                        "website": "http://yasumotohiroki.com/",
+                        "birthday": "1977-03-16"
+                    },
+                    {
+                        "id": 299,
+                        "name": "Kenji Nomura",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/42620.jpg",
+                        "japanese": "乃村 健次",
+                        "website": "http://",
+                        "birthday": "1970-07-23"
+                    },
+                    {
+                        "id": 1667,
+                        "name": "Tilo Schmitz",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/40173.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1959-01-01"
+                    },
+                    {
+                        "id": 11959,
+                        "name": "James Ward",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/38782.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 26649,
+                        "name": "Alexandre Coadour",
+                        "image": null,
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    }
+                ],
+                "synopsis": "Blood Type: A<br>\nBirthday: June 29, 1982<br>\nAge: 19-23<br>\nFavorite Manga: Anman Dama<br>\nFavorite Anime: Fun with the Tarurun Family (before the theme song changed)<br>\nFavorite Game: Exitge<br>\nPen Name: KODAMA<br>\nZodiac Sign: Cancer<br>\nRingtone: Laputa: Castle in the Sky theme<br>\n<br>\nThe stuttering, heavyset Kugayama is Genshiken's only artist until Ogiue's arrival. He generally lacks the motivation and commitment to create a full-fledged dōjinshi. In volume 5, Sasahara asks Kugayama to draw a dōjinshi for Comic-Fest, which he fails to do until Saki forces him, Ogiue, and Sasahara to make one under a very tight schedule. He is given the nickname 'Kugapii' by Saki. In volume 6, he graduates and begins work at a medical device manufacturing company in Iidabashi.<br>\n<br>\nKugayama, though at first a seemingly mediocre artist, is actually quite talented. However, his talent only appears when he is properly motivated, i.e. when drawing more erotic imagery, particularly that of Yamada from Kujibiki Unbalance.<br>\n<br>\n(Source: Wikipedia)"
+            },
+            {
+                "id": 416,
+                "name": "Harunobu Madarame",
+                "image": "https://cdn.myanimelist.net/images/characters/8/64610.jpg",
+                "japanese": "斑目 晴信",
+                "fullname": "Harunobu Madarame",
+                "seyu": [
+                    {
+                        "id": 257,
+                        "name": "Nobuyuki Hiyama",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/10862.jpg",
+                        "japanese": "檜山 修之",
+                        "website": "http://www.artsvision.co.jp/talent/670/",
+                        "birthday": "1967-08-25"
+                    },
+                    {
+                        "id": 1303,
+                        "name": "Bill Timoney",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/41320.jpg",
+                        "japanese": "",
+                        "website": "https://www.linkedin.com/pub/bill-timoney/b/352/661",
+                        "birthday": null
+                    },
+                    {
+                        "id": 7288,
+                        "name": "Kazuyuki Okitsu",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/55143.jpg",
+                        "japanese": "興津 和幸",
+                        "website": "http://",
+                        "birthday": "1980-03-08"
+                    },
+                    {
+                        "id": 14857,
+                        "name": "Tae Yeol Jeon",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/15449.jpg",
+                        "japanese": "전 태열",
+                        "website": "http://",
+                        "birthday": "1973-02-23"
+                    },
+                    {
+                        "id": 24293,
+                        "name": "Bruno Méyère",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/27045.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1984-10-19"
+                    },
+                    {
+                        "id": 46030,
+                        "name": "Sergio Mesa",
+                        "image": null,
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 46614,
+                        "name": "Sven Plate",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/50347.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1966-08-01"
+                    }
+                ],
+                "synopsis": "Age: 19-23<br>\r\nBirthday: October 25, 1982<br>\r\nZodiac Sign: Scorpio<br>\r\nBlood Type: O<br>\r\n<br>\r\nThe second president of Genshiken, Madarame is personally chosen by the first Genshiken president to be his successor, though Madarame shows the most leadership and initiative even before formally appointed as president. <br>\r\n<br>\r\nHe is a Gundam fan and arguably the most hardcore otaku out of all of Genshiken. Madarame buys dōjinshi without looking at price tags, something that occasionally leaves him with very little spending money on basic necessities such as food (his sushi of choice is bacon sushi topped with mayonnaise, cheap at 50 yen a piece).<br>\r\n<br>\r\nMadarame takes pride in everything that he purchases. The Official Genshiken Data Book's otaku quiz section calls the highest level of otaku \"Madarame.\"<br>\r\n<br>\r\nMadarame's loud and adamant support of his own otaku lifestyle initially makes him Saki's nemesis in Genshiken, but as Madarame develops a crush on Saki it heavily influences his interactions with her. However, even after graduating and getting job at Sakura Pipe Repair thanks to his \"computer literacy\" (i.e. experience with porn games) Madarame never admits his feelings to Saki as he does not want to risk ruining their friendship.<br>\r\n<br>\r\nIn the relaunch of the manga, Madarame still drops by the Genshiken clubroom for lunch. In order to help the crossdressing Hato be able to come to the clubroom as a girl while attending classes as a male, Madarame agrees to allow Hato use his apartment to change since it is very close to the school.<br>\r\n<br>\r\nSpotted Flower spoiler<br>\r\n<div class=\"spoiler\">\n<input type=\"button\" class=\"button show_button\" onclick=\"this.nextSibling.style.display='inline-block';this.style.display='none';\" data-showname=\"Show spoiler\" data-hidename=\"Hide spoiler\" value=\"Show spoiler\"><span class=\"spoiler_content\" style=\"display:none\"><input type=\"button\" class=\"button hide_button\" onclick=\"this.parentNode.style.display='none';this.parentNode.parentNode.childNodes[0].style.display='inline-block';\" value=\"Hide spoiler\"><br>In the spin-off manga series <i>Spotted Flower</i> (unconfirmed if canon), Madarame is finally in a relationship with Saki; they are married (she took his virginity) and Saki is pregnant with their child. Much of the story revolves around their married lives, specifically her pregnancy and his otaku lifestyle affecting their sexual intimacy.</span>\n</div>\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 2649,
+                "name": "Kanako Oono",
+                "image": "https://cdn.myanimelist.net/images/characters/6/34289.jpg",
+                "japanese": "大野 加奈子",
+                "fullname": "Kanako Oono",
+                "seyu": [
+                    {
+                        "id": 13,
+                        "name": "Ayako Kawasumi",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/49118.jpg",
+                        "japanese": "川澄 綾子",
+                        "website": "http://osawa-inc.co.jp/blocks/index/talent00111.html",
+                        "birthday": "1976-03-30"
+                    },
+                    {
+                        "id": 140,
+                        "name": "Yukana",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/45746.jpg",
+                        "japanese": "ゆかな",
+                        "website": "http://www.yukana.com/",
+                        "birthday": "1975-01-06"
+                    },
+                    {
+                        "id": 1503,
+                        "name": "Rachael Lillis",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/35121.jpg",
+                        "japanese": "",
+                        "website": "https://soundcloud.com/rachaellm",
+                        "birthday": "1978-07-08"
+                    },
+                    {
+                        "id": 8551,
+                        "name": "Susanne Kaps",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/5848.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 14835,
+                        "name": "Hyeon Jin Lee",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/15407.jpg",
+                        "japanese": "이 현진",
+                        "website": "http://",
+                        "birthday": "1972-11-15"
+                    },
+                    {
+                        "id": 24243,
+                        "name": "Jessica Barrier",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/26999.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    }
+                ],
+                "synopsis": "Birthday: July 14<br>\r\nZodiac Sign: Cancer<br>\r\nBlood Type: O<br>\r\nFavorite Manga: Chinmoku no Kantai<br>\r\nFavorite Anime: Gundam with older men in it<br>\r\nFavorite Video Game: Samurai Spirits<br>\r\nRingtone: Gundam Risenshi, Gair's theme<br>\r\n<br>\r\nKanako is the fourth president of Genshiken. Raised in the United States since the third grade, she graduated from an American high school, joining the Genshiken at the beginning of the Fall term. Normally soft-spoken and easily embarrassed, Kanako is surprisingly upfront when it comes to one of her two main passions: cosplay. With a nice figure and large bosom, Kanako and her cosplaying (using costumes sewn personally by Tanaka, whom she begins dating) quickly become Genshiken's main attraction at student fairs. Kanako's other main passion is yaoi involving muscular, middle-aged, exceedingly bald men. One of the reasons Kanako joins Genshiken in the first place is because only they would accept her fetish. She is also close to Saki, as Saki was the first one to find out about Kanako's preference for older men.<br>\r\n<br>\r\nKanako is against cosplay sex, claiming that doing so betray the characters, but when asked if it's okay to have sex while cosplaying as a porn character, she becomes very embarrassed and indicates she has already used that loophole. Her decision to become the next president of Genshiken comes from Saki's suggestion that she could turn it into a cosplay club (literally \"Society for the Study of Cosplay\" in the original Japanese). Kanako later passes the presidency on to Ogiue. In the relaunch of the manga, it is revealed that she is not job hunting as she is waiting for Tanaka to finish his additional schooling, implying that she may be planning to be a housewife or to help him.<br>\r\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 2648,
+                "name": "Kanji Sasahara",
+                "image": "https://cdn.myanimelist.net/images/characters/10/55561.jpg",
+                "japanese": "笹原 完士",
+                "fullname": "Kanji \"Monkey, Sasayan\" Sasahara",
+                "seyu": [
+                    {
+                        "id": 675,
+                        "name": "Takanori Ooyama",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/8682.jpg",
+                        "japanese": "大山 鎬則",
+                        "website": "http://www.osawa-inc.co.jp/blocks/index/talent00016.html",
+                        "birthday": "1974-03-08"
+                    },
+                    {
+                        "id": 5332,
+                        "name": "Thomas Guitard",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/2280.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1977-11-17"
+                    },
+                    {
+                        "id": 14759,
+                        "name": "Jae Heon Jeong",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/15341.jpg",
+                        "japanese": "정 재헌",
+                        "website": "http://twitter.com/#!/jaeheony/",
+                        "birthday": "1975-04-18"
+                    },
+                    {
+                        "id": 25657,
+                        "name": "Tatsuya Kobashi",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/27961.jpg",
+                        "japanese": "小橋 達也",
+                        "website": "http://maxmix.co.jp/member/kobashi_tatsuya",
+                        "birthday": "1986-02-13"
+                    },
+                    {
+                        "id": 27661,
+                        "name": "Michael Perreca",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/29357.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 37886,
+                        "name": "Jordi Naro",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/40056.jpg",
+                        "japanese": "",
+                        "website": "http://www.jordinaro.com/",
+                        "birthday": "1901-08-25"
+                    }
+                ],
+                "synopsis": "Birthday: January 13<br>\r\nZodiac sign: Capricorn<br>\r\nBlood type: B<br>\r\nPen name: Benjamin Takeyo<br>\r\nFavorite manga: Hunter x Hunter, Berserk<br>\r\nFavorite anime: Patlabor the Movie<br>\r\nFavorite video game: Dragon Quest III, The King of Fighters '95<br>\r\nRingtone: Yen Town Band's \"Ai no Uta\"<br>\r\n<br>\r\nThe third president of Genshiken. At first in denial about his otaku nature, Sasahara eventually accepts and embraces it. He loves hentai PC games despite not owning a computer until volume 3. When Sasahara assumes the title of Genshiken president from Madarame, his first decision is to push the club's initiative, and establish their own booth at Comic-Fest. While Sasahara is pretty much the \"normal\" otaku, his unwavering loyalty to a single character (Kujibiki Unbalance character Ritsuko Kübel Kettenkrad aka \"The Chairman\") makes him stand out from the others. Even the dōjinshi created by Genshiken under his leadership is a Ritsuko-themed one. Sasahara gives up being president during his senior year in order to focus on studying and finding a job, and passes the title on to Ohno.<br>\r\n<br>\r\nWhile Sasahara starts off as a quiet, reserved member of Genshiken, he transforms into a somewhat stronger-willed individual, especially during his presidency. While not completely confident in himself, he is able to find a job as a manga editor and even fight back his own doubts in order to confess his feelings for Ogiue. As of the end of the manga, Sasahara is still dating Ogiue, and accepts the fact that she is using him as a direct model for doujinshi. Sasahara also helps Ogiue by providing criticism and being an unofficial editor for her work in general, despite the possible risk to their relationship.<br>\r\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 2510,
+                "name": "Souichiro Tanaka",
+                "image": "https://cdn.myanimelist.net/images/characters/3/55547.jpg",
+                "japanese": "田中 総市郎",
+                "fullname": "Souichiro Tanaka",
+                "seyu": [
+                    {
+                        "id": 1,
+                        "name": "Tomokazu Seki",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/44649.jpg",
+                        "japanese": "関 智一",
+                        "website": "http://",
+                        "birthday": "1972-09-08"
+                    },
+                    {
+                        "id": 829,
+                        "name": "Takayuki Kondou",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/39962.jpg",
+                        "japanese": "近藤 孝行",
+                        "website": "http://",
+                        "birthday": "1978-06-05"
+                    },
+                    {
+                        "id": 6107,
+                        "name": "Dennis Schmidt-Foß",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/2743.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1970-01-01"
+                    },
+                    {
+                        "id": 9587,
+                        "name": "Bill Rogers",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/7136.jpg",
+                        "japanese": "",
+                        "website": "http://www.facebook.com/pages/billsvoice/96294771575",
+                        "birthday": null
+                    },
+                    {
+                        "id": 26963,
+                        "name": "Damien Da Silva",
+                        "image": null,
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    }
+                ],
+                "synopsis": "Birthday: December 22<br>\r\nBlood type: AB<br>\r\nFavorite Manga: The Seven Star Stories<br>\r\nFavorite Anime: Ryunos: the castle in the Sky, Conan the boy from the Future<br>\r\nFavorite Games: Yuujiro Tactic, The Story of Mr.Stupid<br>\r\nGame Character: Dr.Haywood<br>\r\nRingtone: FFX - Hurry<br>\r\n<br>\r\nOf the three original upperclassmen, Tanaka's personality is more neutral than the others. He is generally not as eager to rant as Madarame, but is more comfortable with himself than Kugayama. A hardcore cosplayer and costume designer, Tanaka is able to bring what should be impractical or even impossible costumes to life. Tanaka is also an expert plamo (plastic model) builder and is not afraid to teach anyone who is willing to learn. While well-versed in many areas of model and figure culture, Tanaka is personally not experienced with figure-modeling, but attempts to learn by sculpting a model of Shinobu from Kujibiki Unbalance.<br>\r\n<br>\r\nTanaka finds his dream girl in Ohno, who becomes not only the ideal model for his costumes, but also his girlfriend. He also makes costumes for Saki and Ogiue, though this can be attributed to his love of costume design, and not any sort of romantic feelings towards either of them. Tanaka believes that models and cosplay are two separate worlds, and treats those two worlds somewhat differently. \"Figures are figures. Cosplay is cosplay.\"<br>\r\n<br>\r\n(Source: Wikipedia)"
+            },
+            {
+                "id": 31863,
+                "name": "Haraguchi",
+                "image": "https://cdn.myanimelist.net/images/characters/16/84867.jpg",
+                "japanese": "原口",
+                "fullname": " Haraguchi",
+                "seyu": [
+                    {
+                        "id": 45,
+                        "name": "Kouji Ishii",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/35883.jpg",
+                        "japanese": "石井 康嗣",
+                        "website": "http://www.vi-vo.jp/member-kojiishii",
+                        "birthday": "1960-07-01"
+                    },
+                    {
+                        "id": 1477,
+                        "name": "David Brimmer",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/34917.jpg",
+                        "japanese": "",
+                        "website": "http://drama.tisch.nyu.edu/object/BrimmerD.html",
+                        "birthday": "1901-03-16"
+                    },
+                    {
+                        "id": 26593,
+                        "name": "Gérard Surugue",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/28771.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1946-03-12"
+                    },
+                    {
+                        "id": 40335,
+                        "name": "Hans Hohlbein",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/42041.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1953-01-01"
+                    }
+                ],
+                "synopsis": "A \"phantom member\" of the Genshiken, Haraguchi rarely shows up at the club room, and when he does, it is almost always bad news. He is a member of the Manga Society and Anime Society as well, but has paid his club dues for none of them. <br>\r\n<br>\r\nCalled \"Haraguro\" by those who are unfortunate enough to know him, he is roundly disliked by everyone in all three groups, and only grudgingly tolerated by his much-touted connections among semi-professional manga artists. However, as he tends to intimidate others into submission, few are willing to voice their complaints in public."
+            },
+            {
+                "id": 31885,
+                "name": "Kimura",
+                "image": "https://cdn.myanimelist.net/images/characters/14/84965.jpg",
+                "japanese": "木村",
+                "fullname": "Kimura ",
+                "seyu": [
+                    {
+                        "id": 114,
+                        "name": "Daisuke Kirii",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/12860.jpg",
+                        "japanese": "桐井 大介",
+                        "website": "http://osawa-inc.co.jp/blocks/index/talent00025.html",
+                        "birthday": "1975-07-23"
+                    }
+                ],
+                "synopsis": "Part of the school council."
+            },
+            {
+                "id": 31866,
+                "name": "Yurie Kitagawa",
+                "image": "https://cdn.myanimelist.net/images/characters/11/84870.jpg",
+                "japanese": "北川",
+                "fullname": "Yurie Kitagawa",
+                "seyu": [
+                    {
+                        "id": 149,
+                        "name": "Sanae Kobayashi",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/19717.jpg",
+                        "japanese": "小林 沙苗",
+                        "website": "http://pro-baobab.jp/ladies/kobayashi_s/index.html",
+                        "birthday": "1980-01-26"
+                    },
+                    {
+                        "id": 10291,
+                        "name": "Dana Halsted",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/8677.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 15291,
+                        "name": "Chae Eon Han",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/16451.jpg",
+                        "japanese": "한 채언",
+                        "website": "http://",
+                        "birthday": "1973-11-08"
+                    }
+                ],
+                "synopsis": "Vice President of the school council."
+            },
+            {
+                "id": 7565,
+                "name": "Manabu Kuchiki",
+                "image": "https://cdn.myanimelist.net/images/characters/14/54320.jpg",
+                "japanese": "朽木 学",
+                "fullname": "Manabu \"Kucchi\" Kuchiki",
+                "seyu": [
+                    {
+                        "id": 17,
+                        "name": "Akira Ishida",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/44590.jpg",
+                        "japanese": "石田 彰",
+                        "website": "http://",
+                        "birthday": "1967-11-02"
+                    },
+                    {
+                        "id": 86,
+                        "name": "Jun Fukuyama",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/46269.jpg",
+                        "japanese": "福山 潤",
+                        "website": "https://blackship.jp/",
+                        "birthday": "1978-11-26"
+                    },
+                    {
+                        "id": 1416,
+                        "name": "Ted Lewis",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/35665.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1969-10-08"
+                    },
+                    {
+                        "id": 14827,
+                        "name": "Wan Gyeong Seong",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/18717.jpg",
+                        "japanese": "성 완경",
+                        "website": "http://",
+                        "birthday": "1967-06-25"
+                    },
+                    {
+                        "id": 45752,
+                        "name": "Mathieu Doang",
+                        "image": null,
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    }
+                ],
+                "synopsis": "Introduced in volume two of the manga, Kuchiki becomes a full-member of Genshiken together with Ogiue in volume four apparently after being kicked out of the Anime Club. Kuchiki is a very abrasive individual, with a loud and obnoxious style of speech and no qualms about doing indecent or improper things (such as spying on girls). He was a part of the Anime Society before he joined Genshiken. He wants to be nicknamed Kuchi (クッチー Kucchī?) and enjoys it when people use this nickname. He is also not ashamed to cosplay.<br>\n<br>\nKuchiki is actually the second-best fighting game player in Genshiken, next to Kousaka. He twice expects himself to be named the next Genshiken president, only to be passed over by Ohno and then Ogiue. Mostly a background comedic character, Kuchiki is used as a goad for a good many of Genshiken's slapstick and off-color jokes. One might even consider him a boke to the rest of the Genshiken's tsukkomi.<br>\n<br>\nIn the relaunch of the manga, it is revealed that Kuchiki doesn't need to look for a job since he's pretty much guaranteed to have a job at a local bank thanks to family connections.<br>\n<br>\n(Source: Wikipedia)"
+            },
+            {
+                "id": 31886,
+                "name": "Tsutomu Mizudori",
+                "image": "https://cdn.myanimelist.net/images/characters/14/84966.jpg",
+                "japanese": null,
+                "fullname": "Tsutomu Mizudori",
+                "seyu": [
+                    {
+                        "id": 9611,
+                        "name": "Junichi Endou",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/16323.jpg",
+                        "japanese": "遠藤 純一",
+                        "website": "http://",
+                        "birthday": "1969-11-30"
+                    }
+                ],
+                "synopsis": "Former director of Kujibiki Unbalance. Hosted the manga club's cosplay contest."
+            },
+            {
+                "id": 14553,
+                "name": "Keiko Sasahara",
+                "image": "https://cdn.myanimelist.net/images/characters/16/54313.jpg",
+                "japanese": "笹原 恵子",
+                "fullname": "Keiko Sasahara",
+                "seyu": [
+                    {
+                        "id": 169,
+                        "name": "Kaori Shimizu",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/27739.jpg",
+                        "japanese": "清水 香里",
+                        "website": "http://www.kaoryclub.com/index.html",
+                        "birthday": "1983-05-21"
+                    },
+                    {
+                        "id": 1048,
+                        "name": "Jessica Calvello",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/35325.jpg",
+                        "japanese": "",
+                        "website": "https://www.facebook.com/pages/Jessica-Calvello/320099344688767",
+                        "birthday": "1973-08-08"
+                    },
+                    {
+                        "id": 10065,
+                        "name": "Ikumi Hayama",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/33429.jpg",
+                        "japanese": "葉山 いくみ",
+                        "website": "http://ameblo.jp/hayama-ikumi/",
+                        "birthday": "1984-11-17"
+                    },
+                    {
+                        "id": 14995,
+                        "name": "Hye Ok Jeong",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/15829.jpg",
+                        "japanese": "정 혜옥",
+                        "website": "http://",
+                        "birthday": "1981-12-16"
+                    },
+                    {
+                        "id": 23697,
+                        "name": "Fanny Bloc",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/26503.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 45038,
+                        "name": "Yvonne Greitzke",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/48402.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1987-10-05"
+                    }
+                ],
+                "synopsis": "Keiko is Kanji's little sister, who leads a kogal lifestyle. She carries a blatant crush on Kousaka, much to Saki's chagrin. She even tries to become an otaku and gets drawn into the otaku world (to a point) when she seems to like some of the dōjinshi Ohno shares with her. In volume 6, she moves into Kanji's place so that she can take the entry exam for Shiiou University and fails, but she gets into Ohka Business College nearby. Her sole reason for doing so is in order to join Genshiken and be closer to Kousaka.<br>\n<br>\n(Source: Wikipedia)"
+            },
+            {
+                "id": 31882,
+                "name": "Sawazaki",
+                "image": "https://cdn.myanimelist.net/images/characters/9/84958.jpg",
+                "japanese": "沢崎",
+                "fullname": "Sawazaki ",
+                "seyu": [
+                    {
+                        "id": 221,
+                        "name": "Kentarou Itou",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/53838.jpg",
+                        "japanese": "伊藤 健太郎",
+                        "website": "http://itoken-ju.jugem.jp/",
+                        "birthday": "1974-01-03"
+                    },
+                    {
+                        "id": 1616,
+                        "name": "Benoit Dupac",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/3/32079.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": null
+                    },
+                    {
+                        "id": 12320,
+                        "name": "Hannes Maurer",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/20863.jpg",
+                        "japanese": "",
+                        "website": "http://",
+                        "birthday": "1983-01-01"
+                    },
+                    {
+                        "id": 14867,
+                        "name": "Jang Kim",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/15465.jpg",
+                        "japanese": "김 장",
+                        "website": "http://",
+                        "birthday": "1970-06-08"
+                    }
+                ],
+                "synopsis": "Student who temporarily united with the current vision Ken Kuchiki, the machinations of Saki, also challenged in Takasaka fighting game, which gave to becoming a member in torn pieces."
+            },
+            {
+                "id": 13581,
+                "name": "Shodai Kaichou",
+                "image": "https://cdn.myanimelist.net/images/characters/10/62012.jpg",
+                "japanese": "初代会長",
+                "fullname": "Shodai Kaichou \"First President, Prez\" ",
+                "seyu": [
+                    {
+                        "id": 58,
+                        "name": "Yuji Ueda",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/1/10153.jpg",
+                        "japanese": "うえだ ゆうじ",
+                        "website": "http://",
+                        "birthday": "1967-06-15"
+                    },
+                    {
+                        "id": 736,
+                        "name": "Jonathan Todd Ross",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/33593.jpg",
+                        "japanese": "",
+                        "website": "http://www.jonathantoddross.com/",
+                        "birthday": "1978-05-30"
+                    }
+                ],
+                "synopsis": "This character is the first club president, whose name is never revealed. He is eerily quiet and very stealthy, moving from place to place like smoke without anyone noticing (scaring Saki in particular), although he seems largely harmless on the surface. He appears to have a vast amount of knowledge about the college and many of the students, although he denies having hidden cameras or any other means of spying on them. He has been head of the Genshiken longer than most care to remember; some indications go back as far as 1987. He often stands on top of buildings, staring into the club room. He leaves his position as President to work on his graduate thesis, implying that he is working on his PhD. He begins the custom of the current president personally choosing his or her successor. The titles for the first 12 episodes of the anime can be interpreted as the \"research\" he has conducted on unsuspecting fellow club-members, as titles from after his departure are far more mundane.<br>\n<br>\n(Source: Wikipedia)"
+            },
+            {
+                "id": 31888,
+                "name": "Takayanagi",
+                "image": "https://cdn.myanimelist.net/images/characters/10/84968.jpg",
+                "japanese": "高柳",
+                "fullname": "Takayanagi ",
+                "seyu": [
+                    {
+                        "id": 7,
+                        "name": "Eiji Yanagisawa",
+                        "image": "https://cdn.myanimelist.net/images/voiceactors/2/10207.jpg",
+                        "japanese": "柳沢 栄治",
+                        "website": "http://www.pro-baobab.jp/men/yanagisawa_e/index.html",
+                        "birthday": "1901-08-22"
+                    }
+                ],
+                "synopsis": "A member of the Manga Society, Takayanagi is on friendly terms with the Genshiken members and is seen conversing with them from time to time on various matters. In one notable instance, he finds himself in the unenviable position in the middle of the battle between the girls of his club and Ogiue, who had attempted to join. He is much relieved when the Genshiken takes Ogiue in, as the other girls in Genshiken are already hated by the Manga Society girls for various reasons."
+            }
+        ]
+    }
+]

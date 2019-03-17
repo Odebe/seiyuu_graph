@@ -1,0 +1,13 @@
+.row
+  %h3 Параметры запроса графа
+.row
+  .md-12
+    %pre
+      %code.json
+        = JSON.pretty_generate  @graph_request.attributes
+.row
+  %h3 Параметры тайтлов запроса
+.row
+  %pre
+    %code.json
+      = JSON.pretty_generate @title_requests.map(&:attributes)

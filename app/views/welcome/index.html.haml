@@ -1,0 +1,7 @@
+%h1 Запилить граф
+= form_for :graph_request, method: :post, url: graph_request_index_path do |form|
+  .row
+    = form.label 'Список ссылок (разделяются символом новой строки)'
+    = form.text_area :links, class: 'form-control'
+  .tow
+    = form.submit class: 'btn btn-primary btn-lg btn-block'

@@ -1,0 +1,46 @@
+!!!
+%html
+  %head
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+    %title SeiyuuGraph
+    = csrf_meta_tags
+    = csp_meta_tag
+    = stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload'
+    = javascript_include_tag 'application', 'data-turbolinks-track': 'reload'
+    :css
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    / Custom styles for this template
+  %script hljs.initHighlightingOnLoad();
+
+  %body
+    %nav.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark
+      %a.navbar-brand{:href => root_url} Сейю Граф
+      %button.navbar-toggler{"aria-controls" => "navbarCollapse", "aria-expanded" => "false", "aria-label" => "Toggle navigation", "data-target" => "#navbarCollapse", "data-toggle" => "collapse", :type => "button"}
+        %span.navbar-toggler-icon
+      #navbarCollapse.collapse.navbar-collapse
+        %ul.navbar-nav.mr-auto
+          %li.nav-item.active
+            %a.nav-link{:href => graph_request_index_url} Запросы
+          %li.nav-item
+            %a.nav-link{:href => "#"} Link
+          %li.nav-item
+            %a.nav-link.disabled{:href => "#"} Disabled
+    %main.container{:role => "main"}
+      - flash.each do |key, value|
+        %div{ class: flash_class(key) }
+          = value
+      = yield
+
